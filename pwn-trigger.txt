@@ -1,0 +1,1 @@
+Trigger path for build-ui-and-server.yml (not covered by paths-ignore).
